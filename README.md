@@ -7,7 +7,7 @@ independientes y validación cruzada con el pliego tarifario real de ASEP (2023-
 ## Nota sobre la tarifa de demanda
 
 La tarifa MTD/BTD de ASEP **no cobra por capacidad contratada**. La distribuidora
-mide la potencia en intervalos de 10-15 minutos durante todo el mes; el intervalo
+mide la potencia en intervalos durante todo el mes; el intervalo
 de mayor valor se multiplica por el cargo de demanda ($/kW). El consumo acumulado
 del mes se multiplica, por separado, por el cargo de energía ($/kWh). El desglose
 histórico (`06_energy_demand_breakdown.py`) muestra que ~75% del costo corresponde
