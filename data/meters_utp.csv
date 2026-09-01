@@ -1,0 +1,66 @@
+"meter_id","nis","center","province","detailed_location","distributor","tariff","latitude","longitude","active","end_of_service","created_at","iso_3166_2"
+269920326,"6595507 001",Centro Regional de Bocas del Toro,Bocas del toro,Empalme via principal (edificio nuevo),EDECHI,BTS,,,true,,2026-03-01 00:00:00.000 -0500,PA-1
+258600637,"6595508 001",Centro Regional de Bocas del Toro,Bocas del toro,Empalme via principal (SCI),EDECHI,BTS,,,true,,2026-03-01 00:00:00.000 -0500,PA-1
+3001351,"6334665 001",Centro Regional de Bocas del Toro,Bocas del toro,No definido,EDECHI,BTS,9.421473000,-82.52307080,true,,,PA-1
+1707900616,"4109943 001",Centro Regional de Coclé,Coclé,Taller de metal mecánica,EDEMET,BTD,8.488890000,-80.32853000,false,2025-10-31,,PA-2
+18792324,"6334666 001",Centro Regional de Bocas del Toro,Bocas del toro,No definido,EDECHI,BTS,9.421616000,-82.52371820,true,,,PA-1
+170796743,"309551",Centro Regional de Colón,Colon,"JOSE DOMINADOR BAZAN, C 234 CA 234",ENSA,BTD,9.287426000,-79.90478400,true,,2022-12-01 00:00:00.000 -0500,PA-3
+150549252,"309552",Centro Regional de Colón,Colon,"JOSE DOMINADOR BAZAN, C 235 CA 235 DESPUES DE LA ZONA PROCESADORA",ENSA,BTD,9.286918000,-79.90421200,false,2025-02-28,,PA-3
+197059268,"309552",Centro Regional de Colón,Colon,"JOSE DOMINADOR BAZAN, C 235 CA 235 DESPUES DE LA ZONA PROCESADORA",ENSA,BTD,9.286918000,-79.90421200,true,,2025-02-28 00:00:00.000 -0500,PA-3
+163806535,"342064",Centro Regional de Colón,Colon,"JOSE DOMINADOR BAZAN, ED 233",ENSA,BTD,9.287970000,-79.90520100,true,,,PA-3
+144664857,"309551",Centro Regional de Colón,Colon,"JOSE DOMINADOR BAZAN, C 234 CA 234",ENSA,BTD,9.287426000,-79.90478400,false,2022-12-01,,PA-3
+627568,"4086125 001",Centro Regional de Azuero,Los Santos,"BARRIO PUEBLO NUEVO, PLAZA SAN AGUSTIN BIBILIOT",EDEMET,BTS,7.927406592,-80.41401038,true,2024-01-01,,PA-7
+18790336,"3044421 002",Centro Regional de Chiriquí,Chiriquí,INGENIERIA CIVIL,EDECHI,BTD,8.424380000,-82.44219300,true,,,PA-4
+24980011,"4109943 001",Centro Regional de Coclé,Coclé,Taller de metal mecánica,EDEMET,BTD,8.488890000,-80.32853000,true,,2025-10-31 00:00:00.000 -0500,PA-2
+18792647,"1015308 002",Centro Regional de Panamá Oeste,Panamá Oeste,Pabellón a,EDEMET,BTD,8.862408000,-79.80266600,true,,,PA-10
+712986,"309548",Centro Regional de Colón,Colon,"JOSE DOMINADOR BAZAN, ED 70",ENSA,BTS,9.288741000,-79.90596400,false,2024-10-01,,PA-3
+184586134,"309548",Centro Regional de Colón,Colon,"JOSE DOMINADOR BAZAN, ED 70",ENSA,BTS,9.288741000,-79.90596400,true,,2024-10-01 00:00:00.000 -0500,PA-3
+17846279,"309550",Centro Regional de Colón,Colon,"JOSE DOMINADOR BAZAN, C 228 Y 229 CA 228 Y 2 TALLERES DE MECANICA",ENSA,BTS,9.288900000,-79.90483400,true,,,PA-3
+78800436,"424459",Centro Regional de Colón,Colon,"JOSE DOMINADOR BAZAN, LT SN EDFI. DE TALLERES",ENSA,BTS,9.287432000,-79.90381000,true,,,PA-3
+23990876,"1015409 002",Centro Regional de Panamá Oeste,Panamá Oeste,Taller de mecánica,EDEMET,BTD,8.862736000,-79.80266600,true,2024-03-01,,PA-10
+23992977,"1015435 002",Centro Regional de Panamá Oeste,Panamá Oeste,Pabellón b,EDEMET,BTD,8.862615000,-79.80265800,true,,,PA-10
+23991862,"6434853 001",Centro Regional de Panamá Oeste,Panamá Oeste,"",EDEMET,BTD,,,true,,,PA-10
+15004519,"4106865 001",Centro Regional de Veraguas,Veraguas,LAB MEC,EDEMET,BTS,8.073833000,-80.93488900,true,,,PA-9
+13001019,"6298865 001",CITT-UTP,Coclé,CITT-UTP,EDEMET,BTD,8.246920000,-80.53223000,true,,,PA-2
+53064654,"6048154 001",Extension Panamá-Pacífico,Panamá Oeste,Edificio de alojamiento 6304,EDEMET,BTS,8.934538000,-79.58895500,true,,,PA-10
+14000318,"6048283 001",Extension Panamá-Pacífico,Panamá Oeste,Cancha de frontenis,EDEMET,BTS,8.934876100,-79.58804040,true,,,PA-10
+3143290146,"211257",Campus Victor Levi Sasso,Panamá,"SANTA MARIA, RICARDO J ALFARO ALADO DE 3M",ENSA,BTD,9.019666300,-79.53258070,true,,,PA-8
+3143240198,"219325",Campus Victor Levi Sasso,Panamá,"CONDADO DEL REY, CENTENARIO FRENTE A TORRES DE MILAN",ENSA,MTD,9.024836200,-79.52838280,true,,,PA-8
+3180050301,"21022075",Campus Victor Levi Sasso,Panamá,"BETHANIA, RICARDO J. ALFARO LO 1 UTP SEGUNDA MEDICION ",ENSA,MTD,9.020109000,-79.53206740,true,,,PA-8
+14000987,"4085923 001",Centro Regional de Azuero,Los Santos,LA HEROICA,EDEMET,MTD,7.927530000,-80.41601800,true,,,PA-7
+17791239,"6033637 001",Extension Panamá-Pacífico,Panamá Oeste,"Edificio principal, taller de aviación",EDEMET,BTD,8.936042000,-79.59198060,true,,,PA-10
+5073555,"6138754 001",Extension Panamá-Pacífico,Panamá Oeste,Edificio de alojamiento 6306,EDEMET,BTS,8.934464000,-79.58968400,true,,,PA-10
+5073556,"6138755 001",Extension Panamá-Pacífico,Panamá Oeste,Edificio de alojamiento 6305,EDEMET,BTS,8.934489000,-79.58930410,true,,,PA-10
+5073553,"6138756 001",Extension Panamá-Pacífico,Panamá Oeste,Edificio de alojamiento 6307,EDEMET,BTS,8.934450000,-79.58998000,true,,,PA-10
+14102718,"6306653 001",Extension Panamá-Pacífico,Panamá Oeste,Edificio de alojamiento 6304,EDEMET,BTS,8.934538000,-79.58895500,true,,,PA-10
+69406118,"6306654 001",Extension Panamá-Pacífico,Panamá Oeste,Edificio de alojamiento 6304,EDEMET,BTS,8.934538000,-79.58895500,false,2024-09-06,,PA-10
+218400842,"6306654 001",Extension Panamá-Pacífico,Panamá Oeste,Edificio de alojamiento 6304,EDEMET,BTS,8.934538000,-79.58895500,true,,2024-09-06 00:00:00.000 -0500,PA-10
+1809126635,"6306674 001",Extension Panamá-Pacífico,Panamá Oeste,Edificio de alojamiento 6304,EDEMET,BTS,8.934538000,-79.58895500,true,,,PA-10
+14100720,"6306715 001",Extension Panamá-Pacífico,Panamá Oeste,Edificio de alojamiento 6304,EDEMET,BTS,8.934538000,-79.58895500,true,,,PA-10
+14100718,"6306721 001",Extension Panamá-Pacífico,Panamá Oeste,Edificio de alojamiento 6304,EDEMET,BTS,8.934538000,-79.58895500,true,,,PA-10
+5070279,"888888",Extension Panamá-Pacífico,Panamá Oeste,Edificio de alojamiento 6305,EDEMET,BTS,,,false,2023-11-01,,PA-10
+13001218,"4085924 001",Centro Regional de Azuero,Los Santos,La heorica,EDEMET,BTD,7.928418000,-80.41657500,false,2025-05-01,,PA-7
+24990684,"4085924 001",Centro Regional de Azuero,Los Santos,La heroica,EDEMET,BTD,7.928418000,-80.41657500,true,,,PA-7
+23990650,"3044422 001",Centro Regional de Chiriquí,Chiriquí,INGENIERIA MECANICA,EDECHI,BTD,8.423983000,-82.44192800,true,,2023-10-01 00:00:00.000 -0500,PA-4
+13001327,"3044422 001",Centro Regional de Chiriquí,Chiriquí,INGENIERIA MECANICA,EDECHI,BTD,8.423983000,-82.44192800,false,2023-10-01,,PA-4
+17791158,"3044423 002",Centro Regional de Chiriquí,Chiriquí,INGENIERIA ELECTRICA,EDECHI,BTD,8.423722000,-82.44160100,true,,,PA-4
+13000875,"3044424 001",Centro Regional de Chiriquí,Chiriquí,ADMINITRACION,EDECHI,BTD,8.423457000,-82.44236200,true,,,PA-4
+50001054,"6028313 001",Centro Regional de Chiriquí,Chiriquí,CANCHA Y RANC,EDECHI,BTD,8.422397000,-82.44280300,true,,,PA-4
+17790969,"4109941 002",Centro Regional de Coclé,Coclé,Edificio # 1,EDEMET,BTD,8.488630000,-80.32784000,true,,,PA-2
+18792953,"1015435 002",Centro Regional de Panamá Oeste,Panamá Oeste,Pabellón b,EDEMET,BTD,8.862615000,-79.80265800,false,,,PA-10
+17791530,"6434853 001",Centro Regional de Panamá Oeste,Panamá Oeste,Edificio d,EDEMET,BTD,8.861169000,-79.80315400,false,,,PA-10
+18792946,"9999999",Centro Regional de Panamá Oeste,Panamá Oeste,Altos san francisco ,EDEMET,BTD,,,false,2023-09-01,,PA-10
+14000888,"4107312 001",Centro Regional de Veraguas,Veraguas,Edificio aulas,EDEMET,BTD,8.074167000,-80.93488900,true,,,PA-9
+5070182,"6138182 001",Extension Panamá-Pacífico,Panamá Oeste,Edificio de alojamiento 6305,EDEMET,BTS,8.934489000,-79.58930410,true,,,PA-10
+62086091,"6138184 001",Extension Panamá-Pacífico,Panamá Oeste,Edificio de alojamiento 6305,EDEMET,BTS,8.934489000,-79.58930410,true,,,PA-10
+5070181,"6138185 001",Extension Panamá-Pacífico,Panamá Oeste,Edificio de alojamiento 6305,EDEMET,BTS,8.934489000,-79.58930410,true,,,PA-10
+2309106513,"6138187 001",Extension Panamá-Pacífico,Panamá Oeste,Edificio de alojamiento 6305,EDEMET,BTS,8.934489000,-79.58930410,true,,,PA-10
+5070260,"6138244 001",Extension Panamá-Pacífico,Panamá Oeste,Edificio de alojamiento 6307,EDEMET,BTS,8.934450000,-79.58998000,true,,,PA-10
+5070259,"6138245 001",Extension Panamá-Pacífico,Panamá Oeste,Edificio de alojamiento 6307,EDEMET,BTS,8.934450000,-79.58998000,true,,,PA-10
+5070257,"6138246 001",Extension Panamá-Pacífico,Panamá Oeste,Edificio de alojamiento 6307,EDEMET,BTS,8.934450000,-79.58998000,true,,,PA-10
+5070258,"6138247 001",Extension Panamá-Pacífico,Panamá Oeste,Edificio de alojamiento 6307,EDEMET,BTS,8.934450000,-79.58998000,true,,,PA-10
+5070427,"6138248 001",Extension Panamá-Pacífico,Panamá Oeste,Edificio de alojamiento 6306,EDEMET,BTS,8.934464000,-79.58968400,true,,,PA-10
+5070425,"6138249 001",Extension Panamá-Pacífico,Panamá Oeste,Edificio de alojamiento 6306,EDEMET,BTS,8.934464000,-79.58968400,true,,,PA-10
+5070426,"6138250 001",Extension Panamá-Pacífico,Panamá Oeste,Edificio de alojamiento 6306,EDEMET,BTS,8.934464000,-79.58968400,true,,,PA-10
+5070428,"6138251 001",Extension Panamá-Pacífico,Panamá Oeste,Edificio de alojamiento 6306,EDEMET,BTS,8.934464000,-79.58968400,true,,,PA-10
+3143240218,"292753",Extensión de Tocumen,Panamá,EDIFICIO PRINCIPAL,ENSA,MTD,9.068683500,-79.40643610,true,,,PA-8
